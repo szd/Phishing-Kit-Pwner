@@ -6,7 +6,7 @@ This script analyse phishing page and look after interesting files.
 ## What can I expect?
 
 * analyse folder structure
-* hishlight redirects
+* highlight redirects
 * look for log files
 * look for archives (containing phishing kit)
 * look for c99 & others
